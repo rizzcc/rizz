@@ -5,7 +5,6 @@
 ###### Since I got involved in this environment, I have always provided free scripts to you all. I have never demanded any money from anyone for scripts, because I do this for the love of it, not for money.
 - [X] Free
 - [ ] Money
-- [ ] Scam
 ---
 # First Attempts
 ---

@@ -8,13 +8,4 @@
 
 * Free ✅
 - Money ❎
-+ Scam ❎
----
-# First Attempts
----
-###### At first, I wanted to learn the print system, as this was the easiest to start with, so I chose this and started from there. For those who want to start, first learn the console system.
-```lua
-print(1)
-print(2)
-print(3)
-```
+* Scam ❎

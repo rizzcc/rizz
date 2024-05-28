@@ -1,11 +1,1 @@
-# WELCOME TO RİZZ.CC I HOPE YOU ENJOY USING RİZZ.CC SCRIPT OWNER LEVY
-
-# WHO IS LEVY?
----
-###### Hello, my real name is Enes. I was born in Turkey on 07/02/2005. In the beginning, I didn't really take Roblox, hacking, and scripting work very seriously. However, since I kept seeing it a lot on social media platforms like YouTube and Instagram, I became curious. At first, I directly took lessons on YouTube. Then, as AI started to emerge, I started coding for them and so on. Before I knew it, I found myself deeply involved in this platform.
----
-###### Since I got involved in this environment, I have always provided free scripts to you all. I have never demanded any money from anyone for scripts, because I do this for the love of it, not for money
-
-* Free ✅
-- Money ❎
-* Scam ❎
+IyBXRUxDT01FIFRPIFLEsVpaLkNDIEkgSE9QRSBZTlUgRU5KT1kgVVNJTkcgUsSZWi5DQyBTQ1JJUFQgT1dORVIgTEVWWQ0KDQojIFdITyBJUyBMRVZZPw0KLS0tDQojIyMjIyMgSGVsbG8sIG15IHJlYWwgbmFtZSBpcyBFbmVzLiBJIHdhcyBib3JuIGluIFR1cmtleSBvbiAwNy8wMi8yMDA1LiBJbiB0aGUgYmVnaW5uaW5nLCBJIGRpZG4ndCByZWFsbHkgdGFrZSBSb2Jsb3gsIGhhY2tpbmcsIGFuZCBzY3JpcHRpbmcgd29yayB2ZXJ5IHNlcmlvdXNseS4gSG93ZXZlciwgc2luY2UgSSBrZXB0IHNlZWluZyBpdCBhIGxvdCBvbiBzb2NpYWwgbWVkaWEgcGxhdGZvcm1zIGxpa2UgWW91VHViZSBhbmQgSW5zdGFncmFtLCBJIGJlY2FtZSBjdXJpb3VzLiBBdCBmaXJzdCwgSSBkaXJlY3RseSB0b29rIGxlc3NvbnMgb24gWW91VHViZS4gVGhlbiwgYXMgQUkgc3RhcnRlZCB0byBlbWVyZ2UsIEkgc3RhcnRlZCBjb2RpbmcgZm9yIHRoZW0gYW5kIHNvIG9uLiBCZWZvcmUgSSBrbmV3IGl0LCBJIGZvdW5kIG15c2VsZiBkZWVwbHkgaW52b2x2ZWQgaW4gdGhpcyBwbGF0Zm9ybS4NCg0KIyMjIyMjIFNpbmNlIEkgZ290IGludm9sdmVkIGluIHRoaXMgZW52aXJvbm1lbnQsIEkgaGF2ZSBhbHdheXMgcHJvdmlkZWQgZnJlZSBzY3JpcHRzIHRvIHlvdSBhbGwuIEkgaGF2ZSBuZXZlciBkZW1hbmRlZCBhbnkgbW9uZXkgZnJvbSBhbnlvbmUgZm9yIHNjcmlwdHMsIGJlY2F1c2UgSSBkbyB0aGlzIGZvciB0aGUgbG92ZSBvZiBpdCwgbm90IGZvciBtb25leQ0KDQoqIEZyZWUg4pyTDQotIE1vbmV5IOKcmA0KKiBTY2FtIOKcmA0K
